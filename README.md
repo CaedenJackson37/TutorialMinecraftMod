@@ -1,4 +1,4 @@
-# Python-Inventory-Management-GUI
+# TutorialMinecraftMod
 <h1>Minecraft Java Mod</h1>
 
 <h2>Description</h2>
