@@ -2,7 +2,7 @@
 <h1>Minecraft Java Mod</h1>
 
 <h2>Description</h2>
-This was my first time using the Java coding language as well as creating a mod for the Java version of Minecraft. I added in a new simple item called "Solstheimite" which is a new mineral which I plan on soon making more adjustments to
+This was my first time using the Java coding language as well as creating a mod for the Java version of Minecraft. I added in a new simple item called "Solstheimite" which is a new ingot that I plan on soon making more adjustments to
 the mod to make it more versatile like its counterparts. 
 <br />
 
