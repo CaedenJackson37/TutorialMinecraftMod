@@ -17,7 +17,7 @@ the mod to make it more versatile like its counterparts.
 - <b>ParchmentMC</b>
 - <b>Paint.net</b>
 - <b>IntelliJ</b>
-- <b>Minecraft Forge</b>
+- <b>MinecraftForge</b>
 
 <h2>Environments Used </h2>
 
