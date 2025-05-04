@@ -9,6 +9,8 @@ the mod to make it more versatile like its counterparts.
 
 <img src="Solstheimite.png" alt="Mineral Example">
 
+<img src="BlockDemo.png" alt="Block Examples">
+
 
 <h2>Languages and Utilities Used</h2>
 
